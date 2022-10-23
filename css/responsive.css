@@ -137,8 +137,11 @@
 
 @media (max-width: 575px) {
     .logo {
-        text-align: center !important;
-        padding-bottom: 40px;
+        
+        margin-left: 50px;
+        padding-bottom: 50px;
+        padding-top: 20px;
+        margin-top: -40px;
     }
     .carousel-caption h1 {
         font-size: 30px;
